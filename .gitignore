@@ -1,0 +1,7 @@
+# Block all backend logic, scripts, config, and data from public git
+*
+
+# Whitelist only public landing page files
+!README.md
+!.gitignore
+!LICENSE
